@@ -1,0 +1,18 @@
+.page-nation-info {
+    margin-top: 20px;
+}
+
+.table-content {
+    margin-top: 10px;
+}
+
+.main-table {
+    width: 100%;
+}
+
+.main-table,
+tr,
+td {
+    border: solid 1px;
+    padding: 10px;
+}
